@@ -5,11 +5,11 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = dc4d07ac64c931d03f67a545ca209da979f1afb0
+AESD_ASSIGNMENTS_VERSION = db50322e6daa92474f15e6838c6c82377ba9f0fd
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignment-5-hyunjin-chung-woowahan.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-hyunjin-chung-woowahan.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
